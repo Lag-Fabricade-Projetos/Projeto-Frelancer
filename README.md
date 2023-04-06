@@ -29,16 +29,22 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 ## Funcionalidades ⚙️
 ✔️ Funcionalidade 1
 - Cadastro do perfil;
+
 ✔️ Funcionalidade 2
 - Login;
+
 ✔️ Funcionalidade 3
 - Pesquisa por funções realizadas;
+
 ✔️ Funcionalidade 4
 - Publicação do portifólio;
+
 ✔️ Funcionalidade 5
 - Intereção de usuário para usuário;
+
 ✔️ Funcionalidade 6
 - Mudaça de informações;
+
 ✔️ Funcionalidade 7
 - Perfil anônimo;
 
