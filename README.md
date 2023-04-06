@@ -27,10 +27,10 @@
 ##### Login:
 - CPF ou CNPJ;
 - Senha;
-- 
+
 ### 🔹 Como rodar a aplicação
 - Para utlizar a aplicação basta acessar o nosso site.
-- 
+
 ### 🔹 Testes realizados
 - Figma;
 - Java(JUnit);
