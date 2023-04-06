@@ -3,66 +3,18 @@
 ## Status do Projeto: ⚠️ Em andamento 
 
 ## Tópicos
-🔹 Descrição do projeto 
-- O objetivo do projeto Lag é reunir trabalhadores autônomos em uma plataforma online para ajudar os profissionais a encontrar oportunidades de trabalho de maneira fácil e gratuito.
-
+### 🔹 Descrição do projeto 
 ### 🔹 Funcionalidades
-- Cadastro do perfil;
-- Login;
-- Pesquisa por funções realizadas;
-- Publicação do portifólio;
-- Intereção de usuário para usuário;
-- Mudaça de informações;
-- Perfil anônimo;
-
 ### 🔹 Distribuição
-- Instagram
-- Youtube
-
 ### 🔹 Pré-requisitos
-##### Cadastro:
-- CPF ou CNPJ;
-- Nome completo;
-- Email;
-##### Login:
-- CPF ou CNPJ;
-- Senha;
-
 ### 🔹 Como rodar a aplicação
-- Para utlizar a aplicação basta acessar o nosso site.
-
 ### 🔹 Testes realizados
-- Figma;
-- Java(JUnit);
-- Banco de dados ;
-
 ### 🔹 Banco de Dados
-- Banco de dados MySQL, segue zip.
 ### 🔹 Linguagens, dependências e libs utilizadas
-##### Prototipação:
-- Figma;
-##### Java:
-- JUnit;
-- Spring MVC
-##### MySQL:
-- MySQL Workbench;
-##### HTML, CSS e JavaScript:
-- Visual Studio code;
 ### 🔹 Novas Recursos
-
 ### 🔹 Resolvendo problemas
-
 ### 🔹 Recursos inseridos 
-
 ### 🔹 Desenvolvedores/Contribuintes
-##### Front-end:
-- Gabriel Pedro;
-- Gustavo Luz;
-##### Back-end:
-- Guilherme Reis;
-- Lincoln Barsotti;
-##### Documentação:
-- Gabriel Viegas;
 ### 🔹 Informações Extras
 
 
@@ -71,16 +23,24 @@
 Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Descrição do projeto
-Descrição breve do projeto compondo um paragrafo ou dois.
+- O objetivo do projeto Lag é reunir trabalhadores autônomos em uma plataforma online para ajudar os profissionais a encontrar oportunidades de trabalho de maneira fácil e gratuito.
+
 
 ## Funcionalidades ⚙️
 ✔️ Funcionalidade 1
-
+- Cadastro do perfil;
 ✔️ Funcionalidade 2
-
+- Login;
 ✔️ Funcionalidade 3
-
+- Pesquisa por funções realizadas;
 ✔️ Funcionalidade 4
+- Publicação do portifólio;
+✔️ Funcionalidade 5
+- Intereção de usuário para usuário;
+✔️ Funcionalidade 6
+- Mudaça de informações;
+✔️ Funcionalidade 7
+- Perfil anônimo;
 
 ## Distribuição
 Link para teste da versão disponibilizada.
@@ -93,19 +53,38 @@ Aparelho utilizado para testes.
 
 ## Como rodar a aplicação 
 Explicação de como se deve utilizar o projeto.
-
+- Caso o usuário desseja apenas visualizar sem que aja um cadastro, é necessário que faça uma pesquisa para a área desejada, podendo utilzar um filtro 
+para informações mais precisas.
 ## Testes realizados
 Utilização de imagens e descrição do qeu foi testado.
+- Figma;
+img
+- Java(JUnit);
+img
+- Banco de dados;
+img
 
 ## Banco de Dados 🗂️
 Caso tenha acesso a uma base de dados, deixe a descrição do arquivo (json, csv, xml e etc).
 
 ## Linguagens, dependencias e libs utilizadas 📚
-![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 XML
 ...
 Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
+
+##### Prototipação:
+- Figma;
+##### Back-end:
+- JavaScript
+- NodeJS;
+- Java;
+- JUnit;
+- Spring MVC
+##### Banco de dados:
+- MySQL;
+##### Front-end:
+- HTML, CSS e JavaScript;
 
 ## Resolvendo Problemas 
 Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
@@ -120,9 +99,16 @@ Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementada
 📝 Tarefa 3
 
 ## Desenvolvedores/Contribuintes:
-Liste o time responsável pelo desenvolvimento do projeto
+##### Front-end:
+- Gabriel Pedro;
+- Gustavo Luz;
+##### Back-end:
+- Guilherme Reis;
+- Lincoln Barsotti;
+##### Documentação:
+- Gabriel Viegas;
 
 ## Licença
 The MIT License (MIT)
 
-## Copyright ©️ Ano - Titulo do Projeto
+## Copyright ©️ 2023 - Lag
