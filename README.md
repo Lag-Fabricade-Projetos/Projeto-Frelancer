@@ -3,7 +3,7 @@
 ## Status do Projeto: ⚠️ Em andamento 
 
 ## Tópicos
-### 🔹 Descrição do projeto 
+### 🔹 [Descrição do projeto ]([url](https://github.com/Lag-Fabricade-Projetos/Projeto-Frelancer/blob/main/README.md#descri%C3%A7%C3%A3o-do-projeto))
 ### 🔹 Funcionalidades
 ### 🔹 Distribuição
 ### 🔹 Pré-requisitos
