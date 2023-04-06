@@ -27,14 +27,27 @@
 ##### Login:
 - CPF ou CNPJ;
 - Senha;
+- 
 ### 🔹 Como rodar a aplicação
-
+- Para utlizar a aplicação basta acessar o nosso site.
+- 
 ### 🔹 Testes realizados
+- Figma;
+- Java(JUnit);
+- Banco de dados ;
 
 ### 🔹 Banco de Dados
-
+- Banco de dados MySQL, segue zip.
 ### 🔹 Linguagens, dependências e libs utilizadas
-
+##### Prototipação:
+- Figma;
+##### Java:
+- JUnit;
+- Spring MVC
+##### MySQL:
+- MySQL Workbench;
+##### HTML, CSS e JavaScript:
+- Visual Studio code;
 ### 🔹 Novas Recursos
 
 ### 🔹 Resolvendo problemas
@@ -42,7 +55,14 @@
 ### 🔹 Recursos inseridos 
 
 ### 🔹 Desenvolvedores/Contribuintes
-
+##### Front-end:
+- Gabriel Pedro;
+- Gustavo Luz;
+##### Back-end:
+- Guilherme Reis;
+- Lincoln Barsotti;
+##### Documentação:
+- Gabriel Viegas;
 ### 🔹 Informações Extras
 
 
