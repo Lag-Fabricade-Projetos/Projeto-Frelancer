@@ -1,33 +1,49 @@
-# Titulo ou Arte do Projeto
+# Lag
 ## Versão: 1.0 
-## Status do Projeto: ✔️ Concluído ⚠️ Espera ❌ Cancelado
+## Status do Projeto: ⚠️ Em andamento 
 
 ## Tópicos
 🔹 Descrição do projeto 
+- O objetivo do projeto Lag é reunir trabalhadores autônomos em uma plataforma online para ajudar os profissionais a encontrar oportunidades de trabalho de maneira fácil e gratuito.
 
-🔹 Funcionalidades
+### 🔹 Funcionalidades
+- Cadastro do perfil;
+- Login;
+- Pesquisa por funções realizadas;
+- Publicação do portifólio;
+- Intereção de usuário para usuário;
+- Mudaça de informações;
+- Perfil anônimo;
 
-🔹 Distribuição
+### 🔹 Distribuição
+- Instagram
+- Youtube
 
-🔹 Pré-requisitos
+### 🔹 Pré-requisitos
+##### Cadastro:
+- CPF ou CNPJ;
+- Nome completo;
+- Email;
+##### Login:
+- CPF ou CNPJ;
+- Senha;
+### 🔹 Como rodar a aplicação
 
-🔹 Como rodar a aplicação
+### 🔹 Testes realizados
 
-🔹 Testes realizados
+### 🔹 Banco de Dados
 
-🔹 Banco de Dados
+### 🔹 Linguagens, dependências e libs utilizadas
 
-🔹 Linguagens, dependências e libs utilizadas
+### 🔹 Novas Recursos
 
-🔹 Novas Recursos
+### 🔹 Resolvendo problemas
 
-🔹 Resolvendo problemas
+### 🔹 Recursos inseridos 
 
-🔹 Recursos inseridos 
+### 🔹 Desenvolvedores/Contribuintes
 
-🔹 Desenvolvedores/Contribuintes
-
-🔹 Informações Extras
+### 🔹 Informações Extras
 
 
 ...
