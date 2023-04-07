@@ -2,6 +2,8 @@
 ## Versão: 1.0 
 ## Status do Projeto: ⚠️ Em andamento 
 
+
+
 ## Tópicos
 ### 🔹 Descrição do projeto
 ### 🔹 Funcionalidades
@@ -80,17 +82,24 @@ Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Gith
 
 ##### Prototipação:
 - Figma;
+
+[![Figma](https://skillicons.dev/icons?i=figma&theme=black)](https://skillicons.dev)
+
 ##### Back-end:
 - JavaScript
 - NodeJS;
 - Java;
-- JUnit;
-- Spring MVC
+- Spring
+
+[![Back - end](https://skillicons.dev/icons?i=js,nodejs,java,spring&theme=black)](https://skillicons.dev)
 ##### Banco de dados:
 - MySQL;
+
+[![Banco de dados](https://skillicons.dev/icons?i=mysql&theme=black)](https://skillicons.dev)
 ##### Front-end:
 - HTML, CSS e JavaScript;
 
+[![Front - end](https://skillicons.dev/icons?i=html,css,js&theme=black)](https://skillicons.dev)
 ## Resolvendo Problemas 
 Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
 
