@@ -100,6 +100,14 @@ Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Gith
 - HTML, CSS e JavaScript;
 
 [![Front - end](https://skillicons.dev/icons?i=html,css,js&theme=black)](https://skillicons.dev)
+
+##### Gerenciamento 
+- Trello
+- Discord
+- Whatsapp
+
+[![Gerenciamento](https://skillicons.dev/icons?i=trello&theme=black)](https://skillicons.dev)
+
 ## Resolvendo Problemas 
 Em issues foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
 
