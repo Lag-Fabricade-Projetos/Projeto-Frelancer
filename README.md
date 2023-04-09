@@ -13,7 +13,7 @@
 ### 🔹 Testes realizados
 ### 🔹 Banco de Dados
 ### 🔹 Linguagens, dependências e libs utilizadas
-### 🔹 Novas Recursos
+### 🔹 Novos Recursos
 ### 🔹 Resolvendo problemas
 ### 🔹 Recursos inseridos 
 ### 🔹 Desenvolvedores/Contribuintes
