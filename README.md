@@ -13,7 +13,6 @@
 ### 🔹 Testes realizados
 ### 🔹 Banco de Dados
 ### 🔹 Linguagens, dependências e libs utilizadas
-### 🔹 Novos Recursos
 ### 🔹 Resolvendo problemas
 ### 🔹 Recursos inseridos 
 ### 🔹 Desenvolvedores/Contribuintes
@@ -66,9 +65,11 @@ para informações mais precisas.
 ## Testes realizados
 Utilização de imagens e descrição do qeu foi testado.
 - Figma ;
-- Java(JUnit);
+
 img
+
 - Banco de dados;
+
 img
 
 ## Banco de Dados 🗂️
