@@ -53,27 +53,21 @@ https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&l
 
 ## Pré-requisitos ⚠️    
 Versão do Android; 
-SDK; 
+Java intalado; 
 Aparelho utilizado para testes.
-- Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação, para rodar o projeto.
+
 
 ## Como rodar a aplicação 
-Explicação de como se deve utilizar o projeto.
+
 - Caso o usuário desseja apenas visualizar sem que aja um cadastro, é necessário que faça uma pesquisa para a área desejada, podendo utilzar um filtro 
 para informações mais precisas.
 ## Testes realizados
-Utilização de imagens e descrição do que foi testado.
+
 - Figma ;
 
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Banco de Dados 🗂️
-![SQL](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
 ## Linguagens, dependencias e libs utilizadas 📚
-
-
-Liste as tecnologias utilizadas no projeto que não forem reconhecidas pelo Github
 
 ##### Prototipação:
 - Figma;
