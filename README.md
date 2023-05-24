@@ -1,5 +1,5 @@
 # PROLINK
-## Versão: 1.0 
+## Versão: 2.0 
 ## Status do Projeto: ⚠️ Em andamento 
 
 
@@ -22,7 +22,7 @@
 
 
 ## Descrição do projeto
-- O objetivo do projeto Lag é reunir trabalhadores autônomos em uma plataforma online para ajudar os profissionais a encontrar oportunidades de trabalho de maneira fácil e gratuito.
+- O objetivo da Prolink é reunir trabalhadores autônomos em uma plataforma online para ajudar os profissionais a encontrar oportunidades de trabalho de maneira fácil e gratuito.
 
 
 ## Funcionalidades ⚙️
@@ -48,19 +48,20 @@
 - Perfil anônimo;
 
 ## Distribuição
-Link:
-https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+Link:![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
 
 ## Pré-requisitos ⚠️    
 Versão do Android; 
+
 Java intalado; 
-Aparelho utilizado para testes.
 
 
 ## Como rodar a aplicação 
 
 - Caso o usuário desseja apenas visualizar sem que aja um cadastro, é necessário que faça uma pesquisa para a área desejada, podendo utilzar um filtro 
 para informações mais precisas.
+
 ## Testes realizados
 
 - Figma ;
@@ -106,13 +107,20 @@ A escolha de linguagem para trabalhar nesse site foi algo desafiador, os membros
 
 ## Recursos de inseridos 🧰
 ##### Página inicial
-![image](https://user-images.githubusercontent.com/107706237/231536683-3ab264c3-61e9-45e8-a26e-db13036d17b9.png)
+![inicial](https://github.com/Lag-Fabricade-Projetos/Projeto-Frelancer/assets/107706237/f51a4c55-1dba-4bb7-83ae-f479b177d7f8)
+
 ##### Cadastro
-![image](https://user-images.githubusercontent.com/107706237/231536687-aaa7ffb3-b0e1-40af-9763-10f8a4e4f5fc.png)
+![cadastro](https://github.com/Lag-Fabricade-Projetos/Projeto-Frelancer/assets/107706237/1ff14dac-70ad-4932-b5c8-721eb3c7a9b0)
+
 ##### Login
-![image](https://user-images.githubusercontent.com/107706237/231536696-dccab275-6d7a-4bb6-98e0-1d9d848dc084.png)
+![login](https://github.com/Lag-Fabricade-Projetos/Projeto-Frelancer/assets/107706237/425c72bf-8347-49b5-a9d5-ab35e62bbbfb)
+
 ##### Interação
-![image](https://user-images.githubusercontent.com/107706237/231536614-0c890a84-2d19-4dad-a02f-4b3a6a66fdbe.png)
+![interação](https://github.com/Lag-Fabricade-Projetos/Projeto-Frelancer/assets/107706237/917519e8-d43c-47a8-97a7-6752f7914161)
+
+##### Perfil
+![perfil](https://github.com/Lag-Fabricade-Projetos/Projeto-Frelancer/assets/107706237/fbcf270a-0ba8-41d0-b159-7707a190ee0b)
+
 
 📝 Tarefa 1
 
